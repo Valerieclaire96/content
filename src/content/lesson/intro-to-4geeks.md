@@ -3,7 +3,7 @@ title: "Introduction to 4Geeks Academy"
 subtitle: "I hope you read this entire article, this reading summarizes in 8 minutes the recipe to take full advantage of the academy. The most effective way!"
 textColor: "white"
 status: "published"
-tags: ["best practices"]
+tags: ["best practicehjdfsjhkfds"]
 authors: ["alesanchezr"]
 date: "2020-10-19T16:36:31+00:00"
 canonical: ""
